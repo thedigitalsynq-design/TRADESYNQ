@@ -1,0 +1,6 @@
+{
+  "name": "TradeSynq - Indian Market Intelligence",
+  "description": "High-confluence trading decision support platform for Indian equity markets (NSE/BSE) featuring a 5-factor confirmation engine, market regime analysis, risk management, and multi-timeframe intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
